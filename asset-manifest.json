@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.933a4036.css",
+    "main.js": "/static/js/main.ab2a8ac1.js",
+    "static/media/CFNightofTerror.ttf": "/static/media/CFNightofTerror.b3ddd35b222fa73da7fb.ttf",
+    "static/media/MidnightMinutes.otf": "/static/media/MidnightMinutes.8e6a6f8c4032b96c930b.otf",
+    "static/media/BLOODY.TTF": "/static/media/BLOODY.58a1ad747f0cef0f1974.TTF",
+    "static/media/CFNightofTerrorFont.rtf": "/static/media/CFNightofTerrorFont.8a167525a9a0f4660342.rtf",
+    "index.html": "/index.html",
+    "main.933a4036.css.map": "/static/css/main.933a4036.css.map",
+    "main.ab2a8ac1.js.map": "/static/js/main.ab2a8ac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933a4036.css",
+    "static/js/main.ab2a8ac1.js"
+  ]
+}
